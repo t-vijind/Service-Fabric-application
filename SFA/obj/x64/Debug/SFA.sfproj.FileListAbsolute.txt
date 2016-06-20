@@ -1,0 +1,1 @@
+C:\Users\t-vijind\Documents\Visual Studio 2015\Projects\ServiceFabricApplication2\WindowsFormsApplication2\demo\SFA\SFA\obj\x64\Debug\SFA.sfprojResolveAssemblyReference.cache
